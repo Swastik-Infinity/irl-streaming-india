@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace YOUR-SITE with the actual Vercel hostname after deployment.
+Sitemap: https://YOUR-SITE.vercel.app/sitemap.xml

@@ -1,0 +1,9 @@
+{
+  "html_pages_checked": 11,
+  "expected_files": 25,
+  "expected_files_missing": [],
+  "sitemap_urls": 11,
+  "issues": [],
+  "placeholder_domain_present_by_design": true,
+  "note": "Canonical and sitemap domains must be replaced after Vercel assigns the production URL."
+}
